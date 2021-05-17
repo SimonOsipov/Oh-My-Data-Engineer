@@ -49,7 +49,9 @@ I am from Russia originally, but would like to have this guide to be internation
 The reason behind another guide about Data Engineers
 
 ### Existing material so far <a name="existing_material"></a>
-List of existing materials, guides, roadmaps and etc about DE
+List of existing materials, guides, roadmaps and etc about Data Engineering:
+
+- **[The Data Engineering Cookbook](https://github.com/andkret/Cookbook)**
 
 ### Existing courses 
 List of existing courses, free and paid.
@@ -93,4 +95,11 @@ DE Communities
 Conferences for DE
 
 ### Whom to follow?
-Persons whom to follow for DE insights
+This section is about people, groups or companies, which write/vlog/podcasts about Data Engineering and i find them interesting to follow:
+
+#### Andreas Kretz
+
+Blog, podcast, YouTube, Telegram Group, books and many others about Data Engineering. Also, his Cookbook is mentioned in the first sections of this guide.
+- [Twitter](https://twitter.com/andreaskayy)
+- [Youtube](https://www.youtube.com/c/andreaskayy)
+- [Website](https://www.teamdatascience.com/)
