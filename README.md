@@ -10,8 +10,6 @@ How to become Data Engineer: step by step curated guide for those who want to sh
 
     3.1 [Existing material so far](#existing_material)
 
-    3.2 [Existing courses](#existing_courses)
-
 4. [Who is Data Engieer?](#what_is_de)
 
 5. [Where to start](#where_to_start)
@@ -57,8 +55,9 @@ List of existing courses, free and paid.
 Definition of Data Engineer and what he do
 
 ## Where to start? <a name="where_to_start"></a>
-Define the starting point of Data Engineers
-
+The following sections will be presented in roadmap style. Basically, you could just pick a category and start learning, but I would suggest to go down the path. In that case you will build strong foundation and all next layesr will lay down perfectly. But agian, you path may vary.
+### Legend
+![Legend](pics/legend.png?raw=true "Legend")
 ### Languages
 Section about languages
 
