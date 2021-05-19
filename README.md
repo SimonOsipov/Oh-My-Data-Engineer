@@ -60,6 +60,7 @@ Definition of Data Engineer and what he do
 The following sections will be presented in roadmap style. Basically, you could just pick a category and start learning, but I would suggest to go down the path. In that case you will build strong foundation and all next layesr will lay down perfectly. But agian, you path may vary.
 ### Legend <a name="legend"></a>
 ![Legend](pics/legend.png?raw=true "Legend")
+
 This picture is straightforward: under green mark you could find the software, technology or tool I personnaly recommend, by yellow - the one worth mention, by red one - is danger zone. Red one doesn't mean you should avoid it, but you should know about pros and cons, caveats, any traps and pitfalls.
 ### Languages
 Section about languages
