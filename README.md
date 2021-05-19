@@ -67,7 +67,9 @@ This picture is straightforward: under green mark you could find the software, t
 
 This is mark to divide sections, e.g. Programming Languages, Databases, Clouds, etc. Check under this mark for more details.
 ### Languages
-Section about languages
+In this section we will try to determine our first step - what programming language should you choose.
+
+![Programming Language](pics/languages.png?raw=true "Programming Language")
 
 ### Databases
 Section about databases
