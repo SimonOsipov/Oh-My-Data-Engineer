@@ -61,7 +61,11 @@ The following sections will be presented in roadmap style. Basically, you could 
 ### Legend <a name="legend"></a>
 ![Legend](pics/legend.png?raw=true "Legend")
 
-This picture is straightforward: under green mark you could find the software, technology or tool I personnaly recommend, by yellow - the one worth mention, by red one - is danger zone. Red one doesn't mean you should avoid it, but you should know about pros and cons, caveats, any traps and pitfalls.
+This picture is straightforward: under green mark you could find the software, technology or tool I personnaly recommend, by yellow - the one worth mention, by red one - is danger zone. Red one **doesn't mean** you should avoid it, but you should know about pros and cons, caveats, any traps and pitfalls.
+
+![Section](pics/section.png?raw=true "Section")
+
+This is mark to divide sections, e.g. Programming Languages, Databases, Clouds, etc. Check under this mark for more details.
 ### Languages
 Section about languages
 
