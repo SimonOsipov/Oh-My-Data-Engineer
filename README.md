@@ -14,19 +14,21 @@ How to become Data Engineer: step by step curated guide for those who want to sh
 
 5. [Where to start](#where_to_start)
 
-    5.1 [Languages](#languages)
+    5.1 [Legend](#legend)
 
-    5.2 [Databases](#databases)
+    5.2 [Languages](#languages)
 
-    5.3 [Clouds](#clouds)
+    5.3 [Databases](#databases)
 
-    5.4 [DevOps](#devops)
+    5.4 [Clouds](#clouds)
 
-    5.5 [CI/CD](#cicd)
+    5.5 [DevOps](#devops)
 
-    5.6 [Tools](#tools)
+    5.6 [CI/CD](#cicd)
 
-    5.7 [Computer science](#computer_science)
+    5.7 [Tools](#tools)
+
+    5.8 [Computer science](#computer_science)
 
 6. [What`s next?](#what_next)
 
@@ -56,8 +58,9 @@ Definition of Data Engineer and what he do
 
 ## Where to start? <a name="where_to_start"></a>
 The following sections will be presented in roadmap style. Basically, you could just pick a category and start learning, but I would suggest to go down the path. In that case you will build strong foundation and all next layesr will lay down perfectly. But agian, you path may vary.
-### Legend
+### Legend <a name="legend"></a>
 ![Legend](pics/legend.png?raw=true "Legend")
+This picture is straightforward: under green mark you could find the software, technology or tool I personnaly recommend, by yellow - the one worth mention, by red one - is danger zone. Red one doesn't mean you should avoid it, but you should know about pros and cons, caveats, any traps and pitfalls.
 ### Languages
 Section about languages
 
