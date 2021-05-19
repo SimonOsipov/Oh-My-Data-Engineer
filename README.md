@@ -43,8 +43,6 @@ How to become Data Engineer: step by step curated guide for those who want to sh
 ## Introduction <a name="introduction"></a>
 Hey, my name is Simon and I am Data Engineer. I decided to write down this guide so other developers and people, who decided to switch to Data Engineering, will have some reference about the upcoming path. This is my experience, my own view on the profession, your mileage may vary.
 
-I am from Russia originally, but would like to have this guide to be international. BUT, as small "thank you" to my motherland, some links (e.g. for courses) will be also for Russian speaking people too. But again, English is prefferable option here.
-
 ## Why another guide? <a name="new_guide"></a>
 The reason behind another guide about Data Engineers
 
