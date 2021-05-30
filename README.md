@@ -71,6 +71,14 @@ In this section we will try to determine our first step - what programming langu
 
 ![Programming Language](pics/languages.png?raw=true "Programming Language")
 
+#### My preference: Python
+
+Why Python? This is one of the most popular programming languages up there, with the richest modules library. It is used in almost all fields of IT, but the biggest strenght is **Data Science** and **Web**. It is fast language, despite the all buzzing around its speed. With modules (or "batteries") comes another pro: TTM or time-to-market. The flow and speed of development is so hight, that basically, you could setup pipelines and API's with the blink of the eye. And another most important aspect of Python: is is de-facto language # 1 for Data Science, and Data Engineering is the foundation on which DS models and algos are built. So, choosing Python, you will add points to synergy and simbiosis of two fields.
+
+#### Worth mention: Go
+
+#### Be aware: Java / Scala / Kotlin 
+
 ### Databases
 Section about databases
 
