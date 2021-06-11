@@ -18,7 +18,7 @@ How to become Data Engineer: step by step curated guide for those who want to sh
 
     5.2 [Languages](#languages)
 
-    5.3 [Databases](#databases)
+    5.3 [Data Storage](#datastorage)
 
     5.4 [Clouds](#clouds)
 
@@ -75,12 +75,15 @@ In this section we will try to determine our first step - what programming langu
 
 Why Python? This is one of the most popular programming languages up there, with the richest modules library. It is used in almost all fields of IT, but the biggest strenght is **Data Science** and **Web**. It is fast language, despite the all buzzing around its speed. With modules (or "batteries") comes another pro: TTM or time-to-market. The flow and speed of development is so hight, that basically, you could setup pipelines and API's with the blink of the eye. And another most important aspect of Python: is is de-facto language # 1 for Data Science, and Data Engineering is the foundation on which DS models and algos are built. So, choosing Python, you will add points to synergy and simbiosis of two fields.
 
+##### Best Books
+
+
 #### Worth mention: Go
 
 #### Be aware: Java / Scala / Kotlin 
 
-### Databases
-Section about databases
+### Data Storage
+Section about data storages
 
 ### Clouds
 Section about cloud provides
