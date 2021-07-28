@@ -95,7 +95,17 @@ Section about DevOps
 Section about DevOps
 
 ### Tools
-Section about Tools
+#### Git
+The way you store and access code, as well as verion control - base knowledge of any developer, no matter which specialisation you pick. There are several VSC, but you can and should learn only one - [Git](https://git-scm.com/).
+
+##### Books
+
+##### Videos
+
+##### Other resources
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - good practices on how to write commit messages.
+- [Trunk-Based Development](https://trunkbaseddevelopment.com/) - one of the approaches on development workflow
+- [Git Flow Branching](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows) - default approach on branching (opposite to previous point)
 
 ### Computer Science
 Section about CS
